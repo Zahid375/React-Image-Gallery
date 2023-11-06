@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Gallery from './components/Gallery';
+import Gallery from './Gallery';
 function App() {
   const [count, setCount] = useState(0);
 
